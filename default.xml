@@ -836,4 +836,8 @@
   <!-- ProtonAOSP snippet -->
   <include name="snippets/proton.xml"/>
 
+  <!-- ProtonViolet snippet -->
+  <include name="snippets/caf.xml"/>
+  <include name="snippets/proton-violet.xml"/>
+
 </manifest>
