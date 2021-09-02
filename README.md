@@ -17,11 +17,8 @@ This is a large download that will take approximately 100 GB of disk space, so p
 
 ## Building
 
-You will need to create a device tree to build this ROM for your device. Below are some examples that have been customized to work well with ProtonAOSP:
+You will need to create a device tree to build this ROM for your device. Below is an example of violet DT which works well with ProtonAOSP:
 
-- [Unified base tree for Pixel 2 and 2 XL](https://github.com/ProtonAOSP/android_device_google_wahoo)
-- [Device-specific tree for Pixel 2](https://github.com/ProtonAOSP/android_device_google_walleye)
-- [Device-specific tree for Pixel 2 XL](https://github.com/ProtonAOSP/android_device_google_taimen)
-- [Proprietary vendor blobs tree for Pixel 2 and 2 XL](https://github.com/ProtonAOSP/android_vendor_google)
+- [Device Tree for violet](https://github.com/proton-violet/android_device_xiaomi_violet)
 
 Good luck!
